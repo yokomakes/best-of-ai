@@ -77,6 +77,8 @@ This repository serves as your go-to guide for **AI tools that are actively main
 - [**Kiro**](https://www.kiro.dev/) – Task-based AI IDE that brings structure to AI coding with spec-driven development.
 
 ---
+- [**toprank**](https://github.com/nowork-studio/toprank) — Open-source Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and Google Ads API.
+
 
 ### Productivity & Knowledge
 
@@ -172,4 +174,3 @@ Submit a **Pull Request** or open an **Issue** — include name, category, short
 ## License
 
 [MIT License](LICENSE)
-
