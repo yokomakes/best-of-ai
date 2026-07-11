@@ -56,6 +56,7 @@ This repository serves as your go-to guide for **AI tools that are actively main
 - [**CivitAI**](https://civitai.com/) – Community hub for Stable Diffusion model sharing.  
 - [**Magnific AI**](https://magnific.ai/) – Image upscaler and detail enhancer.  
 - [**Kaiber**](https://kaiber.ai/) – AI animation and music video creation tool.
+- [**ImagineClip**](https://imagineclip.com/) – AI video generator for avatar clips, stylized scenes, and social-ready videos from prompts, images, and effects.
 - [**Animated Drawings**](https://sketch.metademolab.com/canvas) – Animating children's drawings of characters.
 
 ---
@@ -172,4 +173,3 @@ Submit a **Pull Request** or open an **Issue** — include name, category, short
 ## License
 
 [MIT License](LICENSE)
-
