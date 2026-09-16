@@ -90,6 +90,7 @@ This repository serves as your go-to guide for **AI tools that are actively main
 - [**Slite AI**](https://slite.com/) – Team docs with AI-powered summaries.  
 - [**Superhuman AI**](https://superhuman.com/) – Speedy, intelligent email management.
 - [**Gamma**](https://gamma.app/) – AI-powered platform for creating presentations, documents, and webpages with intelligent design and fast workflows.
+- [**AI Tools Radar**](https://aitoolsradar.com/) – Curated AI tools directory for discovering and comparing practical AI products across productivity, research, creative, and developer workflows.
 
 ---
 
@@ -172,4 +173,3 @@ Submit a **Pull Request** or open an **Issue** — include name, category, short
 ## License
 
 [MIT License](LICENSE)
-
