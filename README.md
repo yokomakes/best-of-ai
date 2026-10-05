@@ -94,6 +94,7 @@ This repository serves as your go-to guide for **AI tools that are actively main
 ---
 
 ### Voice & Music
+- [AI Group Call](https://aigroupcall.app) - An AI council you can talk to: a group voice call where agents riff with each other, answer when named, and yield when you speak.
 
 - [**ElevenLabs v3**](https://elevenlabs.com/) – High-fidelity TTS supporting 70+ languages.  
 - [**ElevenLabs Music**](https://elevenlabs.com/) – Generative music with vocal control.  
